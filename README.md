@@ -14,3 +14,26 @@
 3. Start spring boot `java -jar build/libs/gs-spring-boot-0.1.0.jar`
 
 Above commands can be run individually or in one go by `sh build-run.sh`
+
+**End Points**
+1. #### Add : Add user details like name and email
+    
+    End point : `http://localhost:8080/user/add`
+    
+    Method : POST
+    
+    Params : name & email
+    
+2. #### List All : Lists all the users
+
+    End point : `http://localhost:8080/user/all`
+    
+    Method : GET
+    
+3. #### Get By Id : find User by Id
+
+    End point : `http://localhost:8080/user/byId`
+    
+    Method : POST
+    
+    Params : id
