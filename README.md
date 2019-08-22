@@ -1,9 +1,11 @@
 # spring-boot-boilerplate
 
-**Things used**
-
-1. Gradle
-2. Springboot
+**Technologies Used**
+1. Java 11
+2. Spring 5.1.8.RELEASE
+3. Spring Boot 2.1.6.RELEASE
+4. Gradle 5.6
+5. MySQL 5.7
 
 **Steps to Build and Start**
 
